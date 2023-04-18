@@ -1,0 +1,23 @@
+#ma{
+    border: 2px black solid;
+    width: 350px;
+
+    padding:1%;
+    margin:auto;
+    color: blueviolet;
+    background-color: rgb(234, 225, 225);  
+}
+
+main{
+display: flex;
+width: 100%;
+
+}
+main div{
+    width: 20%;
+    border: 1px solid blue;
+    margin: 1%;
+}
+main div img{
+    width: 100%;
+}
